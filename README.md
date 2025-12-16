@@ -1,4 +1,5 @@
 en-US 
+
 Hi, my name is Letícia! 👋
 
 💻 Developer in training;
@@ -34,6 +35,7 @@ To work as a developer or in the information security field, focusing on reliabl
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  pt-Br
+ 
  Oi, eu me chamo Letícia! 👋
 
 💻 Desenvolvedora em formação;  
