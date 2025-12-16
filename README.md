@@ -1,6 +1,6 @@
 en-US 
 
-Hi, my name is Letícia! 👋
+**Hi, my name is Letícia! 👋**
 
 💻 Developer in training;
 🔐 Interested in Information Security and Databases;
@@ -8,15 +8,11 @@ Hi, my name is Letícia! 👋
 
 🛠️ Technologies & Concepts:
 
-Git & GitHub;
-
-Programming Logic (completed through Curso em Vídeo and college);
-
-MySQL (in progress);
-
-Python (completed through Curso em Vídeo);
-
-HTML5 and CSS3 (completed through Curso em Vídeo).
+* Git & GitHub;
+* Programming Logic (completed through Curso em Vídeo and college);
+* MySQL (in progress);
+* Python (completed through Curso em Vídeo);
+* HTML5 and CSS3 (completed through Curso em Vídeo).
 
 📌 About me
 I am a developer in training, focused on software development, databases, and information security.
@@ -36,7 +32,7 @@ To work as a developer or in the information security field, focusing on reliabl
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
  pt-Br
  
- Oi, eu me chamo Letícia! 👋
+ **Oi, eu me chamo Letícia! 👋**
 
 💻 Desenvolvedora em formação;  
 🔐 Interesse em Segurança da Informação e Banco de Dados;  
