@@ -3,7 +3,9 @@ en-US
 **Hi, my name is Letícia! 👋**
 
 💻 Developer in training;
+
 🔐 Interested in Information Security and Databases;
+
 🎓 Systems Analysis and Development student.
 
 🛠️ Technologies & Concepts:
@@ -15,6 +17,7 @@ en-US
 * HTML5 and CSS3 (completed through Curso em Vídeo).
 
 📌 About me
+
 I am a developer in training, focused on software development, databases, and information security.
 I am interested in building well-structured, organized, and secure systems, with attention to logic, data, and best practices.
 
@@ -23,9 +26,11 @@ I currently work as a marketing intern, an experience that helped me develop str
 I am looking to expand my professional experience in development and data by gaining hands-on experience through projects, continuous learning, and opportunities that challenge me technically.
 
 🎯 Professional goal
+
 To work as a developer or in the information security field, focusing on reliable systems, data, and security best practices.
 
 📫 Contact me:
+
 - Email: leticiabuarquepinho@email.com
 - LinkedIn: linkedin.com/in/letícia-buarque-4889b028b
 
